@@ -1,2 +1,2 @@
 # sprite-characters
-Repo for all Characters
+Repository for all characters
